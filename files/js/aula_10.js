@@ -1,4 +1,4 @@
-// 8° - Operadores aritimeticos.
+// 10° - Operadores aritimeticos.
 
 // Anotações
 // Somar = +

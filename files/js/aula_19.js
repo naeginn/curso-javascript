@@ -63,3 +63,10 @@ const cores = ['verde', 'azul', 'amarelo'];
 for (let i in cores){
 	console.log(i, cores[i]);
 }
+
+// 5° - For..of
+
+
+for (let cor of cores){
+	console.log(cor);
+}

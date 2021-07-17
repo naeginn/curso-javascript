@@ -1,3 +1,6 @@
+// 17° -  If..Else.
+
+// Anotações
 
 let hora = 6;
 
@@ -9,4 +12,3 @@ else if (hora > 12 && hora < 18){
 
 } else {
   console.log('Boa noite.')
-}

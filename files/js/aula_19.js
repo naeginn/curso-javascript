@@ -32,3 +32,12 @@ while (i >= 1) {
 	console.log('[While] Estou aprendendo.', i);
 	i--;
 }
+
+// 3° - Do..while
+
+let ii = 1;
+
+do {
+	console.log('[Do..While] Estou aprendendo.', ii)
+	ii++;
+} while (ii <= 5)
